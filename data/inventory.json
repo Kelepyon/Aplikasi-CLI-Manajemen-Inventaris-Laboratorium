@@ -1,0 +1,16 @@
+[
+  {
+    "id": "AAA-001",
+    "name": "Braun Tube",
+    "quantity": 5,
+    "condition": "baik",
+    "location": "A-1"
+  },
+  {
+    "id": "AAA-002",
+    "name": "Gelas",
+    "quantity": 5,
+    "condition": "baik",
+    "location": "A-2"
+  }
+]
